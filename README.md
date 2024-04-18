@@ -16,13 +16,13 @@ Certifique-se de ter Go instalado em sua máquina.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/gerador-sql-go.git
+   git clone https://github.com/CintiaSilva7300/Generator-SQL.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd gerador-sql-go
+   cd Generator-SQL
    ```
 
 ## Uso
@@ -51,7 +51,7 @@ Certifique-se de ter Go instalado em sua máquina.
 
 ## Exemplo de Saída
 
-```JAVA
+```GO
 CREATE TABLE Person (
 ID VARCHAR(255),
 FirstName VARCHAR(50) NOT NULL,
